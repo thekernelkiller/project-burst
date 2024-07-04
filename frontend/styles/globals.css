@@ -1,0 +1,15 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.background {
+  background: #1c63f1;
+}
+
+.bg-active {
+  background: rgba(219, 230, 253, 0.2);
+}
+
+.bg2 {
+  background-color: rgba(219, 230, 253, 0.2);
+}
